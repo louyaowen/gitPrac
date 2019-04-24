@@ -1,6 +1,6 @@
 # gitPrac
 
-master 分支 init
+master 分支 init master_2
 
 dev：No1
 
@@ -39,3 +39,4 @@ mdmdmdmdmdmdmdm
 777777
 
 888888
+
