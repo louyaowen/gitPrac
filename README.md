@@ -1,42 +1,6 @@
 # gitPrac
 
-master 分支 init master_2
+右键点击下面的连接，然后选择 Download By NeatDownloadManager
 
-dev：No1
-
-dev：No2
-
-新建 dev 分支
-
-1
-2
-3
-4
-5
-6
-
-
-test git rebase origin master
-
-louyw will be lucky!
-
-
-mdmdmdmdmdmdmdm
-
-111111
-
-
-222222
-
-333333
-
-444444
-
-555555
-
-666666
-
-777777
-
-888888
+http://pcs.baidu.com/rest/2.0/pcs/file?method=download&path=%2FAI%20CC2019.dmg&random=0.14319755345235263&app_id=498065
 
